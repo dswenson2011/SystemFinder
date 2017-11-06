@@ -6,7 +6,7 @@
 1. Open in Visual Studio and compile a binary for your operating system
 
 # SystemFinder Run Instructions
-1. Attach in release is the compiled .dll which in terminal run the following
+1. Attach in release is the compiled .dll and required files in a zip which in terminal run the following after extracting
 * `dotnet SystemPlanning.dll`
 
 # Example usage
