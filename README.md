@@ -8,3 +8,6 @@
 # SystemFinder Run Instructions
 1. Attach in release is the compiled .dll which in terminal run the following
 * `dotnet SystemPlanning.dll`
+
+# Example usage
+![Screenshot of the program](https://raw.githubusercontent.com/dswenson2011/SystemFinder/master/screenshot.png)
