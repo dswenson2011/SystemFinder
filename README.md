@@ -1,6 +1,6 @@
 # Dependencies
-1. Uses NewtonSoft.JSON depedency
-1. Uses .Netcore 2.0
+1. Uses NewtonSoft.JSON
+1. Uses .Net Core 2.0
 
 # SystemFinder Build Instructions
 1. Open in Visual Studio and compile a binary for your operating system
